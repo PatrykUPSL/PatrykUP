@@ -9,4 +9,4 @@ Commit test 2
 
 ## instrukcja obslugi
 
-##zmiany w readme 
+zmiany w readme 
