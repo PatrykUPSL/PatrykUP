@@ -6,3 +6,5 @@ Testowe repozytorium dla grupy 1
 Commit test 1
 
 Commit test 2 
+
+## instrukcja obslugi
