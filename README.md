@@ -8,5 +8,3 @@ Commit test 1
 Commit test 2 
 
 ## instrukcja obslugi
-
-## zmiany w readme
